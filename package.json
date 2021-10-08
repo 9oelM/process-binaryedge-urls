@@ -1,0 +1,20 @@
+{
+  "name": "process-binaryedge-urls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "processbinaryedgeurls.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/9oelM/process-binaryedge-urls.git"
+  },
+  "keywords": [],
+  "author": "9oelm <hj923@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/9oelM/process-binaryedge-urls/issues"
+  },
+  "homepage": "https://github.com/9oelM/process-binaryedge-urls#readme"
+}
