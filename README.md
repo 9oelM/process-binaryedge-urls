@@ -1,6 +1,6 @@
 # process-binaryedge-urls
 
-[binaryedge.io](binaryedge.io) is useful enough but when it comes to downloading and processing the URL data, it's a bit of hassle - so here's a little tool for just getting the urls after downloading it as JSON-like structure.
+[binaryedge.io](https://binaryedge.io) is useful enough but when it comes to downloading and processing the URL data, it's a bit of hassle - so here's a little tool for just getting the urls after downloading it as JSON-like structure.
 
 Prerequisite: node.js installed
 
